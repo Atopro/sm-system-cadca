@@ -59,6 +59,7 @@ const AboutMePage = () => {
                       t('aboutme.cert.4'),
                       t('aboutme.cert.5'),
                       t('aboutme.cert.6'),
+                      t('aboutme.cert.7'),
                     ].map((item, i) => (
                       <li key={i} className="flex items-start text-white/85 text-sm md:text-[15px] leading-relaxed">
                         <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4 text-brand-teal mr-2 mt-[2px] shrink-0 fill-current">
